@@ -1,0 +1,21 @@
+{
+  "uploadEntries": [
+    {
+      "assetId": "8d98c1e4-1419-463d-83c4-5baa70ee5a78",
+      "name": "Wind Turbine Tutorial",
+      "isEnabled": true,
+      "uploadItems": [
+        {
+          "prefabFilepath": "Assets/StartingPoint.unity",
+          "forAndroid": true,
+          "forWin": true
+        }
+      ],
+      "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\8d98c1e4",
+      "includeThumbnail": false,
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "4fa155cb-4b98-41aa-b200-7bf018e52466"
+    }
+  ]
+}
