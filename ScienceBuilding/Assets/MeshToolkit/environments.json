@@ -1,19 +1,21 @@
 {
   "uploadEntries": [
     {
-      "assetId": "",
-      "name": "",
+      "assetId": "57bb053f-0f6f-47c8-996f-d48ef6c9995d",
+      "name": "Science Building",
       "isEnabled": true,
       "uploadItems": [
         {
-          "prefabFilepath": "",
+          "prefabFilepath": "Assets/Scenes/ScienceBuilding.unity",
           "forAndroid": true,
           "forWin": true
         }
       ],
       "perPlatformAssets": false,
+      "thumbnailImagesFolder": "Assets\\MeshToolkit\\Thumbnails\\57bb053f",
       "includeThumbnail": false,
-      "thumbnailGenerationBehavior": "Autogenerate"
+      "thumbnailGenerationBehavior": "Autogenerate",
+      "metaverseId": "4fa155cb-4b98-41aa-b200-7bf018e52466"
     }
   ]
 }
